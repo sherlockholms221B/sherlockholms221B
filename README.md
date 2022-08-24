@@ -1,6 +1,6 @@
-<div><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
+<div display="flex" justify="space-between" align="center"><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
 
-<h2> Hey there! I'm Christsanctus </h2><div>
+<h2> Hey there! I'm Christsanctus </h2></div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
