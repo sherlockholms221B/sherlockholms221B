@@ -1,4 +1,4 @@
-<div display="flex" justify="space-between" align="center"><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
+<div display="flex" gap="3em" flex-direction="row" align="center"><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
 
 <h2> Hey there! I'm Christsanctus </h2></div>
 
