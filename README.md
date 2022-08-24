@@ -3,17 +3,16 @@
 <h2> Hey there! I'm Christsanctus Chinedu </h2>
 <h5> and I am a Full-Stack developer </h5></div>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> <img src="https://i.ibb.co/51Dsk3B/About-me.png" alt="About-me" border="0" /> &nbsp;About Me </h3>
 
+- 🌱 &nbsp; Full Stack developer with three years experience.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Mechatronics and automation engineering at University of Nigeria Nsukka.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️ &nbsp; Freelancer
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
