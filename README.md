@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/M2sbCcy/Snapchat-976685892.jpg">
+<img src="https://i.ibb.co/d4NbtJM/Group-1.png">
 
 <h2> Hey there! I'm Christsanctus </h2>
 
