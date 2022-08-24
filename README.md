@@ -3,7 +3,7 @@
 <h2> Hey there! I'm Christsanctus Chinedu </h2>
 <h5> and I am a Full-Stack developer </h5></div>
 
-<h3> <img src="https://i.ibb.co/51Dsk3B/About-me.png" alt="About-me" border="67px" /> &nbsp;About Me </h3>
+<h1> <img src="https://i.ibb.co/51Dsk3B/About-me.png" alt="About-me" border="67px" /> &nbsp;About Me </h1>
 
 - 🌱 &nbsp; Full Stack developer with three years experience.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
