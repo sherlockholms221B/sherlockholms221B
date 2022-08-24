@@ -1,6 +1,7 @@
 <div display="flex" gap="3em" flex-direction="row" align="center"><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
 
-<h2> Hey there! I'm Christsanctus </h2></div>
+<h2> Hey there! I'm Christsanctus Chinedu </h2>
+<h5> and I an a Full-Stack developer </h5></div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
