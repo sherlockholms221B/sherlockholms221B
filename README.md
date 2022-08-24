@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/d4NbtJM/Group-1.png">
+<img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
 
 <h2> Hey there! I'm Christsanctus </h2>
 
