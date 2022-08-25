@@ -5,7 +5,7 @@
 
 <h1> <img src="https://i.ibb.co/51Dsk3B/About-me.png" alt="About-me" border="67px" /> &nbsp;About Me </h1>
 
-- 🌱 &nbsp; Full Stack developer with three years experience.
+- 🌱 &nbsp; Full Stack developer with about two years experience.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Mechatronics and automation engineering at University of Nigeria Nsukka.
 - ✍️ &nbsp; Freelancer
