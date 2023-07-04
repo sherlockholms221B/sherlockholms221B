@@ -34,8 +34,15 @@ Here are some of the technologies I'm proficient in:
 
 I would love to connect with you! Feel free to reach out to me through the following channels:
 
-- Website: [christsanctus.netlify.app](https://xtus.netlify.app/)
-- LinkedIn: [Christsanctus Chinedu](https://www.linkedin.com/in/christsanctus-chinedu-a26914241/)
-- Email: [Chineduchristsanctus020@gmail.com](mailto:Chineduchristsanctus020@gmail.com)
-
+<p align="center">
+  <a href="https://xtus.netlify.app/">
+    <img alt="Website" src="https://img.shields.io/badge/Website-christsanctus.netlify.app-blue?style=flat-square&logo=google-chrome">
+  </a>
+  <a href="https://www.linkedin.com/in/christsanctus-chinedu-a26914241/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Christsanctus%20Chinedu-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:Chineduchristsanctus020@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-Chineduchristsanctus020%40gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
+</p>
 Let's collaborate, learn, and create together!
