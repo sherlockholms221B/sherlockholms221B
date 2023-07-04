@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/HTj2ttz/Github-Readme.png" alt="GitHub Readme">
 </div>
 
-## Hey there! I'm Christsanctus Chinedu 👋
+## Hey there! I'm Christsanctus Chinedu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ### Full-Stack Developer
 
 I'm Christsanctus Chinedu, a passionate and dedicated Full-Stack developer with a strong drive for creating innovative software solutions. I thrive on the excitement of exploring new technologies and enjoy developing quick hacks to solve real-world problems.
@@ -13,11 +13,34 @@ Currently, I am pursuing my studies in Mechatronics and Automation Engineering a
 
 Here are some of the technologies I'm proficient in:
 
-- 💻 Java
-- 🌐 HTML5, CSS, JavaScript, Bootstrap, Node.js, React
-- 🛢️ MongoDB
-- ⚙️ Git, GitHub
-- 🔧 Visual Studio Code, Eclipse
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-333333?style=flat&logo=material-ui&logoColor=0081CB)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next-dot-js&logoColor=000000)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Sanity.io](https://img.shields.io/badge/-Sanity.io-333333?style=flat&logo=sanitydotio&logoColor=000000)
+
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=000000)
+
 
 <br/>
 
