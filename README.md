@@ -1,4 +1,4 @@
-<div display="flex" gap="3em" flex-direction="row" align="center"><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
+<div display="flex" gap="3em" flex-direction="row" align="start"><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
 
 ## Hey there! I'm Christsanctus Chinedu 👋
 ### Full-Stack Developer
