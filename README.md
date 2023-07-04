@@ -1,15 +1,16 @@
-<div display="flex" gap="3em" flex-direction="row" align="start"><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
+<div display="flex" gap="3em" flex-direction="row" align="center"><img src="https://i.ibb.co/HTj2ttz/Github-Readme.png">
 
-## Hey there! I'm Christsanctus Chinedu 👋
-### Full-Stack Developer
+<h2> Hey there! I'm Christsanctus Chinedu </h2>
+<h5> and I am a Full-Stack developer </h5></div>
 
-I'm Christsanctus Chinedu, a passionate and dedicated Full-Stack developer with a strong drive for creating innovative software solutions. I thrive on the excitement of exploring new technologies and enjoy developing quick hacks to solve real-world problems.
+<h1> <img src="https://i.ibb.co/51Dsk3B/About-me.png" alt="About-me" border="67px" /> &nbsp;About Me </h1>
 
-Currently, I am pursuing my studies in Mechatronics and Automation Engineering at the University of Nigeria Nsukka, where I am expanding my knowledge and honing my engineering skills. Alongside my academic pursuits, I have been actively working as a freelancer, collaborating with clients to deliver efficient and impactful software solutions.
+- 🌱 &nbsp; Full Stack developer with about two years experience.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Mechatronics and automation engineering at University of Nigeria Nsukka.
+- ✍️ &nbsp; Freelancer
 
-### Tech Stack 🛠️
-
-Here are some of the technologies I'm proficient in:
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -35,15 +36,12 @@ Here are some of the technologies I'm proficient in:
   <img height="180em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockholms221B&theme=buefy&layout=compact" />
 </a>
 
-
 <br/>
 
-### Connect with Me 🤝🏻
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-I would love to connect with you! Feel free to reach out to me through the following channels:
-
-- Website: [christsanctus.netlify.app](https://xtus.netlify.app/)
-- LinkedIn: [Christsanctus Chinedu](https://www.linkedin.com/in/christsanctus-chinedu-a26914241/)
-- Email: [Chineduchristsanctus020@gmail.com](mailto:Chineduchristsanctus020@gmail.com)
-
-Let's collaborate, learn, and create together!
+<p align="center">
+<a href="https://christsanctus.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/christsanctus-chinedu-a26914241/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:Chineduchristsanctus020@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+</p>
