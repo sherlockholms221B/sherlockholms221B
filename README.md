@@ -43,12 +43,10 @@ Here are some of the technologies I'm proficient in:
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/AVS1508">
-    <img height="180em" width="330em" src="https://github-readme-stats.vercel.app/api?username=sherlockholms221B&theme=buefy&show_icons=true" alt="GitHub Stats" />
-    <img height="180em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherlockholms221B&theme=buefy&layout=compact" alt="Top Languages" />
-  </a>
-</div>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+</a>
 
 <br/>
 
