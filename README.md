@@ -31,7 +31,8 @@ Here are some of the technologies I'm proficient in:
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Sanity.io](https://img.shields.io/badge/-Sanity.io-333333?style=flat&logo=sanitydotio&logoColor=000000)
-
+- 🐳 &nbsp; 
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
