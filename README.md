@@ -33,6 +33,8 @@ Here are some of the technologies I'm proficient in:
   ![Sanity.io](https://img.shields.io/badge/-Sanity.io-333333?style=flat&logo=sanitydotio&logoColor=000000)
 - 🐳 &nbsp; 
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
+- 📜 &nbsp;
+  ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-333333?style=flat&logo=gnu-bash&logoColor=4EAA25)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
