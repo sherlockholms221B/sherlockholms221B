@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/HTj2ttz/Github-Readme.png" alt="GitHub Readme">
 </div>
 
-## Hey there! I'm Christsanctus Chinedu <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hey there! I'm Christsanctus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 ### Full-Stack Developer
 
 I'm Christsanctus Chinedu, a passionate and dedicated Full-Stack developer with a strong drive for creating innovative software solutions. I thrive on the excitement of exploring new technologies and enjoy developing quick hacks to solve real-world problems.
